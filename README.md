@@ -3,3 +3,4 @@ node("master") {
                 echo  'mvn --version'
             }
 }# gitskills
+# 已经修改
